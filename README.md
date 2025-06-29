@@ -36,7 +36,7 @@ Developed a budgeting system to manage operational and maintenance expenses for 
 
 ---
 
-### 📈 Career Highlights
+### Career Highlights
 - 🎓 Bootcamp Graduate – Business Intelligence at **Dibimbing.id**
 - 🎓 Bachelor’s Degree in Information Systems — Budi Luhur University
 - 📃 Created multiple Business Requirements Documents and dashboards
@@ -45,14 +45,14 @@ Developed a budgeting system to manage operational and maintenance expenses for 
 
 ---
 
-### ✍️ Learning & Sharing
+### Learning & Sharing
 - 🗓️ `#100DaysOfData` (in progress)
 - 📄 [Medium](https://medium.com/@ruslandede) 
 - 📌 Passionate about making data easy to understand
 
 ---
 
-### 📫 Let’s Connect!
+### Let’s Connect!
 - [LinkedIn](https://linkedin.com/in/ruslandede)
 
 ---
