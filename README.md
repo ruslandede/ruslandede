@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dede Ruslan</h1>
+<h3 align="center">Business Analyst | Data Analyst | IT Enthusiast</h3>
 
-<!--
-**ruslandede/ruslandede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🔍 Turning complexity into clarity | 💼 From insights to impact
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 💼 Currently working as an **IT Business Analyst**, previously served as an **IT PMO**
+- 📊 Skilled in bridging business needs with data-driven solutions
+- 📍 Based in Indonesia, open to remote and hybrid opportunities
+- 🧠 Constant learner in tech, business process, and data analytics
+
+---
+
+### 🛠️ Tech & Tools
+- **Business Analyst**: BRD, FSD, BPMN, User Stories, Flowchart, JIRA, Confluence
+- **Data Analyst**: SQL, Power BI, Excel, PostgreSQL, Google Looker Studio
+- **Others**: Trello, Notion, Git, Figma (for wireframing), Draw.io
+
+---
+
+### 📂 Featured Projects
+
+#### 🏢 [BSI Internet Banking Revamp](https://github.com/yourusername/bsi-internet-banking)
+Redesigned internet banking experience — handled BRD creation, feature documentation (OTP, CRM, upgrade system), and collaboration with developers.
+
+#### 🏗️ [Building Management System (Karya Corp)](https://github.com/yourusername/building-management-system)
+Developed Android & Web-based building maintenance app. Led BA tasks like flowcharting, ERD design, and stakeholder requirement gathering.
+
+#### ☕ [CafeQu BI Case Study](https://github.com/yourusername/coffee-shop-bi)
+Simulated business intelligence for a modern coffee shop: dashboard analysis of weekday vs. weekend sales, low-performing products, and daily trends.
+
+---
+
+### 📈 Career Highlights
+- 🎓 Bootcamp Graduate – Business Intelligence at **Dibimbing.id**
+- 📃 Created multiple Business Requirements Documents and dashboards
+- 🧩 Experienced working with cross-functional teams in tech projects
+- 📚 Currently exploring Python for deeper analytics
+
+---
+
+### ✍️ Learning & Sharing
+- 🗓️ `#100DaysOfData` (in progress)
+- 📄 [My Blog](https://medium.com/@ruslandede) 
+- 📌 Passionate about making data easy to understand
+
+---
+
+### 📫 Let’s Connect!
+- [LinkedIn](https://linkedin.com/in/ruslandede)
+
+---
+
+*“Every dataset tells a story. Every system needs a guide. I aim to be both.”*
