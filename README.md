@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dede Ruslan</h1>
-<h3 align="center">Business Analyst | Data Analyst | IT Enthusiast</h3>
+<h3 align="center">Business Analyst | Data Analyst | Data Enthusiast</h3>
 
 <p align="center">
 🔍 Turning complexity into clarity | 💼 From insights to impact
