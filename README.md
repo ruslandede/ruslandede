@@ -24,13 +24,7 @@
 
 ### 📂 Featured Projects
 
-#### 🏢 [BSI Internet Banking Revamp](https://github.com/yourusername/bsi-internet-banking)
-Redesigned internet banking experience — handled BRD creation, feature documentation (OTP, CRM, upgrade system), and collaboration with developers.
-
-#### 🏗️ [Building Management System (Karya Corp)](https://github.com/yourusername/building-management-system)
-Developed Android & Web-based building maintenance app. Led BA tasks like flowcharting, ERD design, and stakeholder requirement gathering.
-
-#### ☕ [CafeQu BI Case Study](https://github.com/yourusername/coffee-shop-bi)
+#### ☕ [Coffee Shop BI Case Study]([https://github.com/yourusername/coffee-shop-bi](https://drive.google.com/file/d/1ot1CxE3kpos5oSMtH4KZWoiPvRrwpwBB/view?usp=drive_link))
 Simulated business intelligence for a modern coffee shop: dashboard analysis of weekday vs. weekend sales, low-performing products, and daily trends.
 
 ---
@@ -52,6 +46,7 @@ Simulated business intelligence for a modern coffee shop: dashboard analysis of 
 
 ### 📫 Let’s Connect!
 - [LinkedIn](https://linkedin.com/in/ruslandede)
+- [Medium](https://medium.com/@ruslandede)
 
 ---
 
