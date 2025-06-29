@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech & Tools
-- **Business Analyst**: BRD, FSD, BPMN, User Stories, Flowchart, JIRA, Confluence
+- **Business Analyst**: BRD, FSD, User Stories, Flowchart, JIRA, Confluence
 - **Data Analyst**: SQL, Power BI, Excel, PostgreSQL, Google Looker Studio
 - **Others**: Trello, Notion, Git, Figma (for wireframing), Draw.io
 
