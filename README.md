@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 💼 Currently working as an **IT Business Analyst**, previously served as an **IT PMO**
 - 📊 Skilled in bridging business needs with data-driven solutions
-- 📍 Based in Indonesia, open to remote and hybrid opportunities
+- 📍 Based in Indonesia, open to remote, hybrid, and on-site opportunities especially in Malaysia or Singapore
 - 🧠 Constant learner in tech, business process, and data analytics
 
 ---
