@@ -23,13 +23,16 @@
 ---
 
 ### 📂 Featured Projects
-
-#### 🏗️ [Building Management System (Karya Corp)](https://github.com/ruslandede/karyacorpBMS)
-Developed Android & Web-based building maintenance app. Led BA tasks like flowcharting, ERD design, and stakeholder requirement gathering.
-
-
 #### ☕ [Coffee Shop BI Case Study]([[https://github.com/yourusername/coffee-shop-bi])
 Simulated business intelligence for a modern coffee shop: dashboard analysis of weekday vs. weekend sales, low-performing products, and daily trends.
+#### 🚛 [Wasteship Management System ](https://github.com/ruslandede/SHPWasteship-Management-System)
+Developed a system to monitor and manage city waste shipments. Contributed to flow design, user requirements, and operational features.
+#### 🏗️ [Building Management System (Karya Corp)](https://github.com/ruslandede/karyacorpBMS)
+Developed Android & Web-based building maintenance app. Led BA tasks like flowcharting, ERD design, and stakeholder requirement gathering.
+#### 🏙️ [Rusun Jakarta Budgeting System](https://github.com/ruslandede/rusunjakartabudgeting)
+Developed a budgeting system to manage operational and maintenance expenses for Jakarta’s public housing (Rusun).
+
+
 
 ---
 
