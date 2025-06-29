@@ -23,7 +23,7 @@
 ---
 
 ### 📂 Featured Projects
-#### ☕ [Coffee Shop BI Case Study]([[https://github.com/yourusername/coffee-shop-bi])
+#### ☕ [Coffee Shop BI Case Study]([https://github.com/ruslandede/coffeeshop-BI-Study-Case)
 Simulated business intelligence for a modern coffee shop: dashboard analysis of weekday vs. weekend sales, low-performing products, and daily trends.
 #### 🚛 [Wasteship Management System ](https://github.com/ruslandede/SHPWasteship-Management-System)
 Developed a system to monitor and manage city waste shipments. Contributed to flow design, user requirements, and operational features.
