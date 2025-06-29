@@ -39,14 +39,13 @@ Simulated business intelligence for a modern coffee shop: dashboard analysis of 
 
 ### ✍️ Learning & Sharing
 - 🗓️ `#100DaysOfData` (in progress)
-- 📄 [My Blog](https://medium.com/@ruslandede) 
+- 📄 [Medium](https://medium.com/@ruslandede) 
 - 📌 Passionate about making data easy to understand
 
 ---
 
 ### 📫 Let’s Connect!
 - [LinkedIn](https://linkedin.com/in/ruslandede)
-- [Medium](https://medium.com/@ruslandede)
 
 ---
 
