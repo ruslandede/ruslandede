@@ -17,7 +17,7 @@ Turning complexity into clarity | From insights to impact
 
 ### Tech & Tools
 - **Business Analyst**: BRD, FSD, User Stories, Flowchart, JIRA, Confluence
-- **Data Analyst**: SQL, Power BI, Excel, PostgreSQL
+- **Data Analyst**:  Excel, PostgreSQL, Tableau, Power BI, Phyton
 - **Others**: Trello, Notion, Git, Figma (for wireframing), Draw.io
 
 ---
