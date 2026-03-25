@@ -56,7 +56,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ---
 
 ## 🛠️ Tools
-- Jira, Confluence
+- Jira, Confluence or Click
 - SQL
 - Postman
 - Excel
