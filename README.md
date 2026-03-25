@@ -23,7 +23,8 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ## Projects
 
 ### 🔹 Fawna Superapp
-- Created BRD & user stories
+- Created BRD & FSD
+- Make mockup UI/UX Design
 - Led UAT testing
 - Collaborated with QA team
 
