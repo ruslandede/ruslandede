@@ -1,60 +1,66 @@
-<h1 align="center">Hallo I'm Dede Ruslan</h1>
-<h3 align="center">Business Analyst | Data Enthusiast</h3>
+# Dede Ruslan — IT Business Analyst | QA Enthusiast
 
-<p align="center">
-Turning complexity into clarity | From insights to impact
-</p>
+IT Business Analyst experienced in gathering requirements, defining solutions, and supporting successful system implementation, with hands-on involvement in QA and UAT processes.
+---
+
+## What I Bring
+- Strong Business Analysis (BRD, User Stories)
+- Hands-on QA & UAT experience
+- Detail-oriented mindset for quality assurance
 
 ---
 
-### About Me
-- Currently working as an IT Business Analyst, previously served as an IT PMO
-- Skilled in bridging business needs with data-driven solutions
-- Based in Indonesia, open to remote, hybrid, and on-site opportunities especially in Malaysia or Singapore
-- Constant learner in tech, business process, and data analytics
+## End-to-End Involvement
+✔ Requirement Gathering  
+✔ Documentation (BRD / FSD)  
+✔ Coordination with Dev Team  
+✔ UAT Execution  
+✔ Production Support  
 
 ---
 
-### Tech & Tools
-- **Business Analyst**: BRD, FSD, User Stories, Flowchart, JIRA, Confluence
-- **Data Analyst**:  Excel, PostgreSQL, Tableau, Power BI, Phyton
-- **Others**: Trello, Notion, Git, Figma (for wireframing), Draw.io
+## Projects
+
+### 🔹 Fawna Superapp
+- Created BRD & user stories
+- Led UAT testing
+- Collaborated with QA team
+
+### 🔹 LacaKas
+- Defined requirements
+- Validated data using SQL
+- Ensured bug-free release
+
+### 🔹 Wasteship Management System with ERP & SOP
+- Defined requirements
+- Validated data using SQL
+- Ensured bug-free release
+
+### 🔹 Karya Corp Building Management System
+- Defined requirements
+- Validated data using SQL
+- Ensured bug-free release
+
+### 🔹 DAV CS Management System
+- Defined requirements
+- Validated data using SQL
+- Ensured bug-free release
+
+### 🔹 Building Budgeting System (Rusun Jakarta)
+- Defined requirements
+- Validated data using SQL
+- Ensured bug-free release
 
 ---
 
-### Featured Projects
-#### ☕ [Coffee Shop BI Case Study](https://github.com/ruslandede/coffeeshop-BI-Study-Case)
-Simulated business intelligence for a modern coffee shop: dashboard analysis of weekday vs. weekend sales, low-performing products, and daily trends.
-#### 🚛 [Wasteship Management System ](https://github.com/ruslandede/SHPWasteship-Management-System)
-Developed a system to monitor and manage city waste shipments. Contributed to flow design, user requirements, and operational features.
-#### 🏗️ [Building Management System (Karya Corp)](https://github.com/ruslandede/karyacorpBMS)
-Developed Android & Web-based building maintenance app. Led BA tasks like flowcharting, ERD design, and stakeholder requirement gathering.
-#### 🏙️ [Rusun Jakarta Budgeting System](https://github.com/ruslandede/rusunjakartabudgeting)
-Developed a budgeting system to manage operational and maintenance expenses for Jakarta’s public housing (Rusun).
-
-
+## 🛠️ Tools
+- Jira, Confluence
+- SQL
+- Postman
+- Excel
 
 ---
 
-### Career Highlights
-- 🎓 Bootcamp Graduate – Business Intelligence at **Dibimbing.id**
-- 🎓 Bachelor’s Degree in Information Systems — Budi Luhur University
-- 📃 Created multiple Business Requirements Documents and dashboards
-- 🧩 Experienced working with cross-functional teams in tech projects
-- 📚 Currently exploring Python for deeper analytics
-
----
-
-### Learning & Sharing
-- 🗓️ `#100DaysOfData` (in progress)
-- 📄 [Medium](https://medium.com/@ruslandede) 
-- 📌 Passionate about making data easy to understand
-
----
-
-### Let’s Connect!
-- [LinkedIn](https://linkedin.com/in/ruslandede)
-
----
-
-*“Every dataset tells a story. Every system needs a guide. I aim to be both.”*
+## 📬 Contact
+- LinkedIn: [https://www.linkedin.com/in/ruslandede/]
+- Email: [dederuslan12@gmail.com]
