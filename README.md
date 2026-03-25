@@ -1,6 +1,6 @@
 # Dede Ruslan - IT Business Analyst | QA Enthusiast
 
-IT Business Analyst experienced in gathering requirements, defining solutions, and supporting successful system implementation, with hands-on involvement in QA and UAT processes.
+Bridging business needs with high-quality system delivery.
 ---
 
 ## What I Do
