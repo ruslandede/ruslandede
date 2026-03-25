@@ -15,7 +15,6 @@ IT Business Analyst experienced in gathering requirements, defining solutions, a
 ✔ Documentation (BRD / FSD)  
 ✔ Coordination with Dev Team  
 ✔ Automation & Manual Testing
-✔ UAT Execution  
 ✔ Production Support  
 
 ---
