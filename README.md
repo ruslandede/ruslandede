@@ -36,6 +36,14 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [Building Budgeting System (Rusun Jakarta) ](https://github.com/ruslandede/fawnaexperience/tree/main)
 
+### 🔹 [Clinic Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
+
+### 🔹 [Rent Bus Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
+
+### 🔹 [Tent Rental Service System](https://github.com/ruslandede/fawnaexperience/tree/main)
+
+### 🔹 [library management system](https://github.com/ruslandede/fawnaexperience/tree/main)
+
 ---
 
 ## 🛠️ Tools
