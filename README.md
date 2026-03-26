@@ -22,7 +22,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ## Projects
 
-### 🔹 [My LinkedIn](https://linkedin.com/in/username)
+### 🔹 [Fawna Hotel](https://github.com/ruslandede/fawnaexperience/tree/main))
 
 ### 🔹 Fawna Experience
 
