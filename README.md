@@ -36,6 +36,8 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 Building Budgeting System (Rusun Jakarta)
 
+[My LinkedIn](https://linkedin.com/in/username)
+
 ---
 
 ## 🛠️ Tools
