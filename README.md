@@ -80,7 +80,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Basic Automation Testing (Selenium)  
 
 ## 💻 Technical Skills
-- Programming: Python, JavaScript  
+- Programming: Python, Dart JavaScript, HTML, CSS & PHP
 - Frontend: React.js  
 - Mobile: Flutter  
 - Backend: Laravel
