@@ -22,21 +22,19 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ## Projects
 
-### 🔹 [Fawna Hotel](https://github.com/ruslandede/fawnaexperience/tree/main))
+### 🔹 [Fawna Hotel](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 Fawna Experience
+### 🔹 [Fawna Experience](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 LacaKas
+### 🔹 [LacaKas Budgeting App](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 Wasteship Management System with ERP & SOP
+### 🔹 [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 Karya Corp Building Management System
+### 🔹 [Karya Corp Building Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 DAV CS Management System
+### 🔹 [DAV CS Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 Building Budgeting System (Rusun Jakarta)
-
-[My LinkedIn](https://linkedin.com/in/username)
+### 🔹 [Building Budgeting System (Rusun Jakarta) ](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ---
 
