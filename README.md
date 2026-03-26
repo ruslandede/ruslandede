@@ -52,7 +52,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [Tent Rental Service System for Doa Ibu Rent](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Tent Rental Service System for Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ### 🔹 [library management system for SDN 09 Larangan, Tangerang City](https://github.com/ruslandede/fawnaexperience/tree/main)
 
