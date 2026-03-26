@@ -46,15 +46,15 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [DAV Mini Commerce for Alfamart group](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [Building Budgeting System (Rusun Jakarta) ](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Building Budgeting System (Rusun Jakarta)](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [Clinic Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Clinic Management System for Dr J.hudyono Clinic](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [Rent Bus Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [Tent Rental Service System](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Tent Rental Service System for Doa Ibu Rent](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [library management system](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [library management system for SDN 09 Larangan, Tangerang City](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ---
 
