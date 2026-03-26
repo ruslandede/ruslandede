@@ -30,13 +30,13 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [LacaKas Budgeting App](https://github.com/ruslandede/LacaKasBudgetingApp)
 
-### 🔹 [Managed care for Health Insurance](https://github.com/ruslandede/ManagedcareHealthInsurance))
+### 🔹 [Managed care for Health Insurance](https://github.com/ruslandede/ManagedcareHealthInsurance)
 
 ### 🔹 [Journal Claim & Retur for Health Insurance](https://github.com/ruslandede/ClaimReturJournalHealthcare/tree/main)
 
-### 🔹 [Journal premium for health insurance](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main))
+### 🔹 [Journal premium for health insurance](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main)
 
-### 🔹 [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/SHPWasteship-Management-System))
+### 🔹 [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/SHPWasteship-Management-System)
 
 ### 🔹 [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
 
@@ -48,7 +48,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [Clinic Management System for Dr J.hudyono Clinic](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 
-### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari))
+### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
 
 ### 🔹 [Tent Rental Service System for Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/TentRentalDoaIbuUlujami))
 
