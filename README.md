@@ -57,11 +57,11 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ---
 
 ## 🛠️ Tools & Technologies
-- Project Management: Jira, ClickUp  
-- Documentation: Confluence  
-- Design: Figma  
+- Project Management: Jira, ClickUp, Trello, Notion
+- Documentation: Confluence, Google Docs, , M.Word, Powerpoint 
+- Design: Figma & Canva  
 - API Testing: Postman  
-- Data Analysis: SQL, Microsoft Excel  
+- Data Analysis: SQL, Microsoft Excel, Spreadsheet, Power BI, Tableau
 
 ## 🧪 Testing & QA
 - Manual Testing  
