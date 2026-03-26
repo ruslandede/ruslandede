@@ -26,15 +26,23 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [Fawna Experience](https://github.com/ruslandede/fawnaexperience/tree/main)
 
+### 🔹 [Fawna Playdate](https://github.com/ruslandede/fawnaexperience/tree/main)
+
 ### 🔹 [LacaKas Budgeting App](https://github.com/ruslandede/fawnaexperience/tree/main)
 
+### 🔹 [Managed care for Health Insurance](https://github.com/ruslandede/fawnaexperience/tree/main)
+
 ### 🔹 [Journal Claim & Retur for Health Insurance](https://github.com/ruslandede/fawnaexperience/tree/main)
+
+### 🔹 [Journal premium averos for health insurance](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ### 🔹 [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ### 🔹 [Karya Corp Building Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ### 🔹 [DAV CS Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
+
+### 🔹 [DAV Mini Commerce](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ### 🔹 [Building Budgeting System (Rusun Jakarta) ](https://github.com/ruslandede/fawnaexperience/tree/main)
 
