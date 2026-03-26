@@ -62,7 +62,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Presentation: Power point & Canva
 - Design: Figma 
 - API Testing: Postman  
-- Data Analysis: SQL, Microsoft Excel, Spreadsheet, Power BI, Tableau
+- Data Analysis: SQL, Microsoft Excel, Spreadsheet, Power BI, Tableau & Phyton
 
 ## 📄 Technical Documentation
 - Business Requirement Document (BRD)  
@@ -80,7 +80,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Basic Automation Testing (Selenium)  
 
 ## 💻 Technical Skills
-- Programming: Python, Dart JavaScript, HTML, CSS & PHP
+- Programming: HTML, CSS, JavaScript, Dart, PHP & Phyton
 - Frontend: React.js  
 - Mobile: Flutter  
 - Backend: Laravel
