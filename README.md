@@ -58,10 +58,19 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ## 🛠️ Tools & Technologies
 - Project Management: Jira, ClickUp, Trello, Notion
-- Documentation: Confluence, Google Docs, , M.Word, Powerpoint 
-- Design: Figma & Canva  
+- Documentation: Confluence, Google Docs, , Microsoft Word
+- Presentation: Power point & Canva
+- Design: Figma 
 - API Testing: Postman  
 - Data Analysis: SQL, Microsoft Excel, Spreadsheet, Power BI, Tableau
+
+## 📄 Technical Documentation
+- Business Requirement Document (BRD)  
+- Functional Specification Document (FSD)  
+- User Stories & Acceptance Criteria  
+- Business Process Modeling (BPMN)  
+- API Documentation (basic understanding)
+- Documentation Site Management (Antora) 
 
 ## 🧪 Testing & QA
 - Manual Testing  
@@ -74,7 +83,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Programming: Python, JavaScript  
 - Frontend: React.js  
 - Mobile: Flutter  
-- Backend: Laravel  
+- Backend: Laravel
 
 ---
 
