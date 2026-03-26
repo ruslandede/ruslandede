@@ -22,7 +22,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ## Projects
 
-### 🔹 Fawna Hotel (https://github.com/ruslandede/fawnaexperience.git)
+### 🔹 [Fawna Hotel] (https://github.com/ruslandede/fawnaexperience.git)
 
 ### 🔹 Fawna Experience
 
@@ -47,5 +47,5 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ---
 
 ## 📬 Contact
-- LinkedIn: [https://www.linkedin.com/in/ruslandede/]
-- Email: [dederuslan12@gmail.com]
+- LinkedIn: [Dede Ruslan] (https://www.linkedin.com/in/ruslandede/)
+- Email: [dederuslan12@gmail.com] (dederuslan12@gmail.com)
