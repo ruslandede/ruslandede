@@ -56,14 +56,29 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ---
 
-## 🛠️ Tools
-- Jira, Confluence or Click
-- SQL
-- Postman
-- Excel
+## 🛠️ Tools & Technologies
+- Project Management: Jira, ClickUp  
+- Documentation: Confluence  
+- Design: Figma  
+- API Testing: Postman  
+- Data Analysis: SQL, Microsoft Excel  
+
+## 🧪 Testing & QA
+- Manual Testing  
+- User Acceptance Testing (UAT)  
+- Test Case Design (Excel / Jira)  
+- API Testing (Postman)  
+- Basic Automation Testing (Selenium)  
+
+## 💻 Technical Skills
+- Programming: Python, JavaScript  
+- Frontend: React.js  
+- Mobile: Flutter  
+- Backend: Laravel  
 
 ---
 
 ## 📬 Contact
 - LinkedIn: [Dede Ruslan](https://www.linkedin.com/in/ruslandede/)
 - Email: [dederuslan12@gmail.com](dederuslan12@gmail.com)
+- Portofolio Website: [Dede Ruslan](https://canva.link/z5oj5gfm4picudz))
