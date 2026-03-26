@@ -38,19 +38,19 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [Karya Corp Building Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
 
 ### 🔹 [DAV CS Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ### 🔹 [DAV Kiosk Commerce for Minimart](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [Building Budgeting System (Rusun Jakarta)](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Building Budgeting System (Rusun Jakarta)](https://github.com/ruslandede/BuildingBudgetingRusunJakarta)
 
-### 🔹 [Clinic Management System for Dr J.hudyono Clinic](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Clinic Management System for Dr J.hudyono Clinic](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 
-### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari))
 
-### 🔹 [Tent Rental Service System for Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Tent Rental Service System for Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/TentRentalDoaIbuUlujami))
 
 ### 🔹 [Library management system for SDN 09 Larangan, Tangerang City](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
 
