@@ -22,42 +22,19 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ## Projects
 
-### 🔹 Fawna Hotel
-- Created BRD & FSD
-- Make mockup UI/UX Design
-- Led UAT testing
-- Collaborated with QA team
+### 🔹 **Fawna Hotel **
 
 ### 🔹 Fawna Experience
-- Created BRD & FSD
-- Make mockup UI/UX Design
-- Led UAT testing
-- Collaborated with QA team
 
 ### 🔹 LacaKas
-- Defined requirements
-- Validated data using SQL
-- Ensured bug-free release
 
 ### 🔹 Wasteship Management System with ERP & SOP
-- Defined requirements
-- Validated data using SQL
-- Ensured bug-free release
 
 ### 🔹 Karya Corp Building Management System
-- Defined requirements
-- Validated data using SQL
-- Ensured bug-free release
 
 ### 🔹 DAV CS Management System
-- Defined requirements
-- Validated data using SQL
-- Ensured bug-free release
 
 ### 🔹 Building Budgeting System (Rusun Jakarta)
-- Defined requirements
-- Validated data using SQL
-- Ensured bug-free release
 
 ---
 
