@@ -34,9 +34,9 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [Journal Claim & Retur for Health Insurance](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [Journal premium for health insurance](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Journal premium for health insurance](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main))
 
-### 🔹 [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/fawnaexperience/tree/main)
+### 🔹 [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/SHPWasteship-Management-System))
 
 ### 🔹 [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
 
