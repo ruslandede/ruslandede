@@ -50,7 +50,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
 
-### 🔹 [Tent Rental Service System for Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/TentRentalDoaIbuUlujami))
+### 🔹 [Tent Rental Service System for Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/TentRentalDoaIbuUlujami)
 
 ### 🔹 [Library management system for SDN 09 Larangan, Tangerang City](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
 
