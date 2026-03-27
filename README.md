@@ -104,7 +104,8 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Library Management System
 - Clinic Management System
 - Query Test for employee's sallary
-- Coffee Shop Business Intelligence 
+- Coffee Shop Business Intelligence
+- AB Fitness Business Intelligence 
 - Most popular 1000 Youtube videos
 - Foodpanda Order & Delivery Trends 
 
