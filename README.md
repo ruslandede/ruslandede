@@ -95,6 +95,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 > This case study is reconstructed based on a business case assignment from a recruitment process and Bootcamp.  
 > All company-specific details have been anonymized and generalized.
 
+- Third-Party Logistics
 - Jakarta Micro Business Licensing and Compliance Assistant
 - Warehouse System (Inbound & Outbound)
 - Cash Advance System
@@ -102,8 +103,10 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - PT Toko Butik E-Commerce
 - Library Management System
 - Clinic Management System
-- Query Test for sallary
-- Final Project for Dibimbing Bootcamp
+- Query Test for employee's sallary
+- Coffee Shop Business Intelligence 
+- Most popular 1000 Youtube videos
+- Foodpanda Order & Delivery Trends 
 
 ## 📬 Contact
 - LinkedIn: [Dede Ruslan](https://www.linkedin.com/in/ruslandede/)
