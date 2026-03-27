@@ -107,7 +107,17 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Coffee Shop Business Intelligence
 - AB Fitness Business Intelligence 
 - Most popular 1000 Youtube videos
-- Foodpanda Order & Delivery Trends 
+- Foodpanda Order & Delivery Trends
+- Bersihkos UI/UX Design
+
+---
+
+## Training & Certification
+- Mastering Excel and Power BI – Habis Kerja
+- Korea-Asean Digital Academy – Elice
+- UI/UX Design Bootcamp –  Binar Academy
+
+---
 
 ## Contact
 - LinkedIn: [Dede Ruslan](https://www.linkedin.com/in/ruslandede/)
