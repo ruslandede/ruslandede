@@ -92,7 +92,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ---
 
 ## Case Studies
-> This case study is reconstructed based on a business case assignment from a recruitment process and Bootcamp.  
+> This case study is reconstructed based on a business case assignment from a recruitment process, Training and Bootcamp.  
 > All company-specific details have been anonymized and generalized.
 
 - Third-Party Logistics System
