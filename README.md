@@ -95,7 +95,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 > This case study is reconstructed based on a business case assignment from a recruitment process and Bootcamp.  
 > All company-specific details have been anonymized and generalized.
 
-- Third-Party Logistics
+- Third-Party Logistics System
 - Jakarta Micro Business Licensing and Compliance Assistant
 - Warehouse System (Inbound & Outbound)
 - Cash Advance System
