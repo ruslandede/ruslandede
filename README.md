@@ -42,11 +42,15 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [DAV CS Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
 
+### 🔹 [DAV Kiosk Commerce for Grocery Store](https://github.com/ruslandede/fawnaexperience/tree/main)
+
 ### 🔹 [DAV Kiosk Commerce for Minimart](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ### 🔹 [Building Budgeting System (Rusun Jakarta)](https://github.com/ruslandede/BuildingBudgetingRusunJakarta)
 
 ### 🔹 [Clinic Management System for Dr J.hudyono Clinic](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
+
+### 🔹 [Grocery Store Management System](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 
 ### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
 
@@ -86,6 +90,20 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Backend: Laravel
 
 ---
+
+## 🧪 Case Studies
+> This case study is reconstructed based on a business case assignment from a recruitment process and Bootcamp.  
+> All company-specific details have been anonymized and generalized.
+
+- Jakarta Micro Business Licensing and Compliance Assistant
+- Warehouse System (Inbound & Outbound)
+- Cash Advance System
+- ShoesForLife E-Commerce
+- PT Toko Butik E-Commerce
+- Library Management System
+- Clinic Management System
+- Query Test for sallary
+- Final Project for Dibimbing Bootcamp
 
 ## 📬 Contact
 - LinkedIn: [Dede Ruslan](https://www.linkedin.com/in/ruslandede/)
