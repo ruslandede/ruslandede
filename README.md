@@ -60,7 +60,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Project Management: Jira, ClickUp, Trello, Notion
 - Documentation: Confluence, Google Docs, , Microsoft Word
 - Presentation: Power point & Canva
@@ -68,7 +68,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - API Testing: Postman  
 - Data Analysis: SQL, Microsoft Excel, Spreadsheet, Power BI, Tableau & Phyton
 
-## 📄 Technical Documentation
+## Technical Documentation
 - Business Requirement Document (BRD)  
 - Functional Specification Document (FSD)  
 - User Stories & Acceptance Criteria  
@@ -76,14 +76,14 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - API Documentation (basic understanding)
 - Documentation Site Management (Antora) 
 
-## 🧪 Testing & QA
+## Testing & QA
 - Manual Testing  
 - User Acceptance Testing (UAT)  
 - Test Case Design (Excel / Jira)  
 - API Testing (Postman)  
 - Basic Automation Testing (Selenium)  
 
-## 💻 Technical Skills
+## Technical Skills
 - Programming: HTML, CSS, JavaScript, Dart, PHP & Phyton
 - Frontend: React.js  
 - Mobile: Flutter  
@@ -91,7 +91,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ---
 
-## 🧪 Case Studies
+## Case Studies
 > This case study is reconstructed based on a business case assignment from a recruitment process and Bootcamp.  
 > All company-specific details have been anonymized and generalized.
 
@@ -108,7 +108,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Most popular 1000 Youtube videos
 - Foodpanda Order & Delivery Trends 
 
-## 📬 Contact
+## Contact
 - LinkedIn: [Dede Ruslan](https://www.linkedin.com/in/ruslandede/)
 - Email: [dederuslan12@gmail.com](dederuslan12@gmail.com)
 - Portofolio Website: [Porto Dede Ruslan](https://canva.link/z5oj5gfm4picudz)
