@@ -109,6 +109,8 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Most popular 1000 Youtube videos
 - Foodpanda Order & Delivery Trends
 - Bersihkos UI/UX Design
+- Learning Management System UI/UX Design
+- NGO Microsite UI/UX Design
 
 ---
 
