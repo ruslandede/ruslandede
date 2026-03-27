@@ -48,15 +48,15 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [Building Budgeting System (Rusun Jakarta)](https://github.com/ruslandede/BuildingBudgetingRusunJakarta)
 
-### 🔹 [Clinic Management System for Dr J.hudyono Clinic](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
+### 🔹 [Clinic Management System Dr J.hudyono Clinic](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 
 ### 🔹 [Grocery Store Management System](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 
-### 🔹 [Bus Rent Management System For Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
+### 🔹 [Bus Rent Management System Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
 
-### 🔹 [Tent Rental Service System for Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/TentRentalDoaIbuUlujami)
+### 🔹 [Tent Rental Service System Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/TentRentalDoaIbuUlujami)
 
-### 🔹 [Library management system for SDN 09 Larangan, Tangerang City](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
+### 🔹 [Library Management System SDN 09 Larangan, Tangerang City](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
 
 ---
 
