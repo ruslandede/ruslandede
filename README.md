@@ -98,6 +98,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Third-Party Logistics System
 - Jakarta Micro Business Licensing and Compliance Assistant
 - Warehouse System (Inbound & Outbound)
+- ERP for warehouse
 - Cash Advance System
 - ShoesForLife E-Commerce
 - PT Toko Butik E-Commerce
