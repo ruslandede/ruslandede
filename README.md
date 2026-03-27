@@ -126,5 +126,5 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ## Contact
 - LinkedIn: [Dede Ruslan](https://www.linkedin.com/in/ruslandede/)
 - Email: dederuslan12@gmail.com
-- IT BA Portofolio Website: [Website](https://canva.link/z5oj5gfm4picudz)
+- IT BA Portofolio: [Website](https://canva.link/z5oj5gfm4picudz)
 - Dribble: [Dribble Dede Ruslan](https://dribbble.com/dederuslan)
