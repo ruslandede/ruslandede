@@ -23,15 +23,10 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ## Projects
 
 ### 🔹 [Derus Blog Wordpress](https://github.com/ruslandede/fawnahotel/tree/main)
-
 ### 🔹 [Fawna Hotel](https://github.com/ruslandede/fawnahotel/tree/main)
-
 ### 🔹 [Fawna Experience](https://github.com/ruslandede/fawnaexperience/tree/main)
-
 ### 🔹 [Fawna Playdate](https://github.com/ruslandede/fawnaplaydate/tree/main)
-
 ### 🔹 [LacaKas Budgeting App](https://github.com/ruslandede/LacaKasBudgetingApp)
-
 ### 🔹 [Managed care for Health Insurance](https://github.com/ruslandede/ManagedcareHealthInsurance)
 
 ### 🔹 [Journal Claim & Retur for Health Insurance](https://github.com/ruslandede/ClaimReturJournalHealthcare/tree/main)
