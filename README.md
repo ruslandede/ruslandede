@@ -42,8 +42,6 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ### 🔹 [DAV CS Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-### 🔹 [DAV Kiosk Commerce for Mili Grocery Store](https://github.com/ruslandede/fawnaexperience/tree/main)
-
 ### 🔹 [DAV Kiosk Commerce for Retail Minimart](https://github.com/ruslandede/fawnaexperience/tree/main)
 
 ### 🔹 [Building Budgeting System (Rusun Jakarta)](https://github.com/ruslandede/BuildingBudgetingRusunJakarta)
