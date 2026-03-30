@@ -22,35 +22,22 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ## Projects
 
-### 🔹 [Derus Blog Wordpress](https://github.com/ruslandede/fawnahotel/tree/main)
 ### 🔹 [Fawna Hotel](https://github.com/ruslandede/fawnahotel/tree/main)
 ### 🔹 [Fawna Experience](https://github.com/ruslandede/fawnaexperience/tree/main)
 ### 🔹 [Fawna Playdate](https://github.com/ruslandede/fawnaplaydate/tree/main)
 ### 🔹 [LacaKas Budgeting App](https://github.com/ruslandede/LacaKasBudgetingApp)
 ### 🔹 [Managed care for Health Insurance](https://github.com/ruslandede/ManagedcareHealthInsurance)
-
 ### 🔹 [Journal Claim & Retur for Health Insurance](https://github.com/ruslandede/ClaimReturJournalHealthcare/tree/main)
-
 ### 🔹 [Journal premium for health insurance](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main)
-
 ### 🔹 [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/SHPWasteship-Management-System)
-
 ### 🔹 [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
-
 ### 🔹 [DAV CS Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
-
 ### 🔹 [DAV Kiosk Commerce for Retail Minimart](https://github.com/ruslandede/fawnaexperience/tree/main)
-
 ### 🔹 [Building Budgeting System (Rusun Jakarta)](https://github.com/ruslandede/BuildingBudgetingRusunJakarta)
-
 ### 🔹 [Clinic Management System Dr J.hudyono Clinic](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
-
 ### 🔹 [Grocery Store Management System](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
-
 ### 🔹 [Bus Rent Management System Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
-
 ### 🔹 [Tent Rental Service System Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/TentRentalDoaIbuUlujami)
-
 ### 🔹 [Library Management System SDN 09 Larangan, Tangerang City](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
 
 ---
