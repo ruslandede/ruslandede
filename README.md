@@ -21,14 +21,14 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ---
 
-## 📂 More Projects
-See full list here 👉 [More Projects](./MORE_PROJECTS.md)
+## More Projects
+See full list here [More Projects](./MORE_PROJECTS.md)
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-## 💼 IT Business Analyst
+## IT Business Analyst
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -36,37 +36,32 @@ See full list here 👉 [More Projects](./MORE_PROJECTS.md)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-FC6D26?style=for-the-badge&logo=lucidchart&logoColor=white)
 
----
 
-## 📊 Project Management
+## Project Management
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 
----
 
-## 📈 Data & Analytics
+## Data & Analytics
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
 
-## 🎨 Design & Prototyping
+## Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 🧪 Quality Assurance
+## Quality Assurance
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
 
----
 
-## 💻 Technical Skills
+## Technical Skills
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,11 +82,10 @@ See full list here 👉 [More Projects](./MORE_PROJECTS.md)
 
 ---
 
-## 📂 Case Studies
-See full list here 👉 [More Case Studies](./MORE_PROJECTS.md)
+## Case Studies
+See full list here [More Case Studies](./MORE_PROJECTS.md)
 
 ---
-
 
 ## Training & Certification
 - Mastering Excel and Power BI – Habis Kerja
