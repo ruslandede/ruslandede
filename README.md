@@ -70,10 +70,6 @@ See full list here 👉 [More Case Studies](./MORE_PROJECTS.md)
 
 ## Connect with me
 
-## 📫 Connect with me
-
-## 📫 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslandede/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derusstudy/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/dederuslan)
