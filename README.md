@@ -1,7 +1,7 @@
 # Dede Ruslan - IT Business Analyst | QA Enthusiast
 ---
 
-<span style="font-size:14px;">  IT Business Analyst with hands-on experience in end-to-end product development, including requirements gathering, business process modeling (BPMN), and documentation (BRD/FSD). Skilled in UI/UX design to deliver user-centered solutions, as well as Quality Assurance through test case development, UAT execution, and ensuring high-quality system delivery. </span>
+<p>  IT Business Analyst with hands-on experience in end-to-end product development, including requirements gathering, business process modeling (BPMN), and documentation (BRD/FSD). Skilled in UI/UX design to deliver user-centered solutions, as well as Quality Assurance through test case development, UAT execution, and ensuring high-quality system delivery. </p>
 ---
 
 ## What I Do
