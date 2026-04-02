@@ -31,35 +31,18 @@ See full list here 👉 [More Projects](./MORE_PROJECTS.md)
 
 ---
 
-## Tools & Technologies
-- Project Management: Jira, ClickUp, Trello, Notion
-- Documentation: Confluence, Google Docs, , Microsoft Word
-- Presentation: Power point & Canva
-- Design: Figma 
-- API Testing: Postman  
-- Data Analysis: SQL, Microsoft Excel, Spreadsheet, Power BI, Tableau & Phyton
+## 🛠️ Tools & Technologies
 
-## Technical Documentation
-- Business Requirement Document (BRD)  
-- Functional Specification Document (FSD)  
-- User Stories & Acceptance Criteria  
-- Business Process Modeling (BPMN)  
-- API Documentation (basic understanding)
-- Documentation Site Management (Antora) 
-
-## Testing & QA
-- Manual Testing  
-- User Acceptance Testing (UAT)  
-- Test Case Design (Excel / Jira)  
-- API Testing (Postman)  
-- Basic Automation Testing (Selenium)  
-
-## Technical Skills
-- Programming: HTML, CSS, JavaScript, Dart, PHP & Phyton
-- Frontend: React.js  
-- Mobile: Flutter  
-- Backend: Laravel
-
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ---
 
 ## Case Studies
