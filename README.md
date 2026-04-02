@@ -57,18 +57,27 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ---
 
-## Case Studies
+## Business Analyst Case Studies
 > This case study is reconstructed based on a business case assignment from a recruitment process, Training and Bootcamp.  
 > All company-specific details have been anonymized and generalized.
 
 - Third-Party Logistics System
-- Cash Advance System
 - ShoesForLife E-Commerce
 - PT Toko Butik E-Commerce
-- Foodpanda Order & Delivery Trends
-- Bersihkos UI/UX Design
 
-### See All Case Studies Here [More Case Studies](./MORE_PROJECTS.md)
+### See All BA Case Studies Here [More Case Studies](./MORE_PROJECTS.md)
+
+---
+
+## Quality Assurance Case Studies
+> This case study is reconstructed based on a business case assignment from a recruitment process, Training and Bootcamp.  
+> All company-specific details have been anonymized and generalized.
+
+- Third-Party Logistics System
+- ShoesForLife E-Commerce
+- PT Toko Butik E-Commerce
+
+### See All QA Case Studies Here [More Case Studies](./MORE_PROJECTS.md)
 
 ---
 
