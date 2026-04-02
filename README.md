@@ -1,7 +1,7 @@
 # Dede Ruslan - IT Business Analyst | QA Enthusiast
 ---
 
-<p>  IT Business Analyst with hands-on experience in end-to-end product development, including requirements gathering, business process modeling (BPMN), and documentation (BRD/FSD). Skilled in UI/UX design to deliver user-centered solutions, as well as Quality Assurance through test case development, UAT execution, and ensuring high-quality system delivery. </p>
+<p> IT Business Analyst with strong Quality Assurance experience, including test case development, UAT execution, and defect validation. Experienced in requirements analysis, BPMN, and BRD/FSD documentation, with additional involvement in project management to ensure high-quality and successful system delivery. </p>
 ---
 
 ## What I Do
@@ -40,6 +40,11 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ### 🔹 [Bus Rent Management System Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
 ### 🔹 [Tent Rental Service System Doa Ibu Rent Ulujami, South Jakarta](https://github.com/ruslandede/TentRentalDoaIbuUlujami)
 ### 🔹 [Library Management System SDN 09 Larangan, Tangerang City](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
+
+---
+
+## 📂 More Projects
+See full list here 👉 [More Projects](./MORE_PROJECTS.md)
 
 ---
 
@@ -97,6 +102,12 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - NGO Microsite UI/UX Design
 
 ---
+
+## 📂 More Projects
+See full list here 👉 [More Projects](./MORE_PROJECTS.md)
+
+---
+
 
 ## Training & Certification
 - Mastering Excel and Power BI – Habis Kerja
