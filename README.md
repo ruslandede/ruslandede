@@ -62,7 +62,14 @@ See full list here 👉 [More Case Studies](./MORE_PROJECTS.md)
 
 ---
 
+## Connect with me
+
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/ruslandede/)  
+[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://www.instagram.com/derusstudy/)  
+[![Dribbble](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg)](https://dribbble.com/dederuslan)  
+[![Medium](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg)](https://medium.com/@ruslandede)
+
+---
+
 ## Contact
-- LinkedIn: [Dede Ruslan](https://www.linkedin.com/in/ruslandede/)
 - Email: dederuslan12@gmail.com
-- Dribble: [UI/UX Design](https://dribbble.com/dederuslan)
