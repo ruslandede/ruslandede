@@ -70,10 +70,20 @@ See full list here 👉 [More Case Studies](./MORE_PROJECTS.md)
 
 ## Connect with me
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/ruslandede/)
-[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://www.instagram.com/derusstudy/)
-[![Dribbble](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg)](https://dribbble.com/dederuslan)
-[![Medium](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg)](https://medium.com/@ruslandede)
+## 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/ruslandede/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+</a>
+<a href="https://www.instagram.com/derusstudy/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30"/>
+</a>
+<a href="https://dribbble.com/dederuslan">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" alt="Dribbble" width="30"/>
+</a>
+<a href="https://medium.com/@ruslandede">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="30"/>
+</a>
 
 ---
 
