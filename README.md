@@ -18,8 +18,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ### 🔹 [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
 ### 🔹 [DAV Kiosk Commerce for Retail Minimart](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-## More Projects
-See full list here [More Projects](./MORE_PROJECTS.md)
+See More Projects here [More Projects](./MORE_PROJECTS.md)
 
 ---
 
@@ -76,8 +75,7 @@ See full list here [More Projects](./MORE_PROJECTS.md)
 - Foodpanda Order & Delivery Trends
 - Bersihkos UI/UX Design
 
-## Case Studies
-See full list here [More Case Studies](./MORE_PROJECTS.md)
+See All Case Studies here [More Case Studies](./MORE_PROJECTS.md)
 
 ---
 
