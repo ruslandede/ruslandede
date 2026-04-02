@@ -85,8 +85,8 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Mastering Excel and Power BI – Habis Kerja
 - Quality Assurance – Habis Kerja
 - Korea-Asean Digital Academy – Elice
-- UI/UX Design Mini Bootcamp –  Digita Skola
-- UI/UX Design Bootcamp –  Binar Academy
+
+#### See All Training & Certification Here [More Case Studies](./MORE_PROJECTS.md)
 
 ---
 
