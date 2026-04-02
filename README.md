@@ -2,7 +2,6 @@
 ---
 
 <p> IT Business Analyst with strong Quality Assurance experience, including test case development, UAT execution, and defect validation. Experienced in requirements analysis, BPMN, and BRD/FSD documentation, with additional involvement in project management to ensure high-quality and successful system delivery. </p>
----
 
 ## What I Do
 As an IT Business Analyst, I bridge the gap between business and technology by:
