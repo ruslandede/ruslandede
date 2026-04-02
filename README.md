@@ -86,8 +86,8 @@ See full list here 👉 [More Projects](./MORE_PROJECTS.md)
 
 ---
 
-## 📂 More Projects
-See full list here 👉 [More Projects](./MORE_PROJECTS.md)
+## 📂 Case Studies
+See full list here 👉 [More Case Studies](./MORE_PROJECTS.md)
 
 ---
 
