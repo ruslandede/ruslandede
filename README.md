@@ -72,18 +72,12 @@ See full list here 👉 [More Case Studies](./MORE_PROJECTS.md)
 
 ## 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/ruslandede/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30"/>
-</a>
-<a href="https://www.instagram.com/derusstudy/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30"/>
-</a>
-<a href="https://dribbble.com/dederuslan">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" alt="Dribbble" width="30"/>
-</a>
-<a href="https://medium.com/@ruslandede">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="30"/>
-</a>
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslandede/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derusstudy/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/dederuslan)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ruslandede)
 
 ---
 
