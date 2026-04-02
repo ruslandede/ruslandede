@@ -4,15 +4,6 @@
 <p> IT Business Analyst with strong Quality Assurance experience, including test case development, UAT execution, and defect validation. Experienced in requirements analysis, BPMN, and BRD/FSD documentation, with additional involvement in project management to ensure high-quality and successful system delivery. </p>
 ---
 
-## End-to-End Involvement
-✔ Requirement Gathering  
-✔ Documentation (BRD / FSD)  
-✔ Coordination with Dev Team  
-✔ UAT Execution  
-✔ Production Support  
-
----
-
 ## Projects
 
 ### 🔹 [Fawna Hotel (soon)](https://github.com/ruslandede/fawnahotel/tree/main)
