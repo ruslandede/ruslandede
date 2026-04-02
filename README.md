@@ -65,7 +65,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - ShoesForLife E-Commerce
 - PT Toko Butik E-Commerce
 
-### See All BA Case Studies Here [More Case Studies](./MORE_PROJECTS.md)
+#### See All BA Case Studies Here [More Case Studies](./MORE_PROJECTS.md)
 
 ---
 
@@ -77,7 +77,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - ShoesForLife E-Commerce
 - PT Toko Butik E-Commerce
 
-### See All QA Case Studies Here [More Case Studies](./MORE_PROJECTS.md)
+#### See All QA Case Studies Here [More Case Studies](./MORE_PROJECTS.md)
 
 ---
 
