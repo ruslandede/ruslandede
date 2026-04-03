@@ -7,7 +7,10 @@ Here are additional projects I have worked on:
 ## 🏨 Hospitality & Lifestyle
 - **Fawna Hotel** *(Coming Soon)*
 - **Fawna Playdate** *(Coming Soon)*
+- **Fawna Festival** *(Coming Soon)*
 - **Fawna Experience**
+- **Revamp Fawna Adoption**
+- **Revamp Fawna Foundation**
 
 ---
 
@@ -29,11 +32,12 @@ Here are additional projects I have worked on:
 
 ## 🏥 Healthcare Systems
 - **Clinic Management System – Dr. J. Hudyono Clinic**
-
+- **Revamp Fawna Care**
 ---
 
 ## 🛒 Retail & E-commerce
 - **Grocery Store Management System**
+- **Revamp Fawna Shop**
 - **DAV Kiosk Commerce for Retail Minimart**
 - **Bus Rent Management System – Safari Bus Tour & Travel**
 - **Tent Rental Service System – Doa Ibu Rent (South Jakarta)**
@@ -42,3 +46,7 @@ Here are additional projects I have worked on:
 
 ## 📚 Education
 - **Library Management System – SDN 09 Larangan (Tangerang City)**
+
+---
+## 🌐 Personal & Portfolio Websites
+- **Derus blog wordpress**
