@@ -1,8 +1,7 @@
 # 📂 More Projects
 
-Here are additional projects I have worked on:  
-This list is shared in accordance with NDA.
-
+> Here are featured projects I have worked on:  
+> This list is shared in accordance with NDA.
 ---
 
 ## 🏨 Hospitality & Lifestyle
