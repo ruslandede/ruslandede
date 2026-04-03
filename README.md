@@ -9,7 +9,9 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Translating them into system requirements
 - Ensuring solutions actually work (UAT & QA)
 ---
-## Projects
+## Featured Projects
+> Here are featured projects I have worked on:  
+> This list is shared in accordance with NDA.
 
 - [Fawna Hotel (soon)](https://github.com/ruslandede/fawnahotel/tree/main)
 - [Fawna Experience](https://github.com/ruslandede/fawnaexperience/tree/main)
