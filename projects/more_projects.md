@@ -23,7 +23,6 @@ Here are additional projects I have worked on:
 - **Wasteship Management System (ERP & SOP)**
 - **Karya Corp Building Management System**
 - **DAV CS Management System**
-- **DAV Kiosk Commerce for Retail Minimart**
 - **Building Budgeting System (Rusun Jakarta)**
 
 ---
@@ -33,8 +32,9 @@ Here are additional projects I have worked on:
 
 ---
 
-## 🛒 Retail & Services
+## 🛒 Retail & E-commerce
 - **Grocery Store Management System**
+- **DAV Kiosk Commerce for Retail Minimart**
 - **Bus Rent Management System – Safari Bus Tour & Travel**
 - **Tent Rental Service System – Doa Ibu Rent (South Jakarta)**
 
