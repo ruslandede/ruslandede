@@ -1,6 +1,7 @@
 # 📂 More Projects
 
-Here are additional projects I have worked on:
+Here are additional projects I have worked on:  
+This list is shared in accordance with NDA.
 
 ---
 
