@@ -33,13 +33,17 @@ Here are additional projects I have worked on:
 
 ## 🏥 Healthcare Systems
 - **Clinic Management System – Dr. J. Hudyono Clinic**
+- **DAV Digital Kiosk for pharmacy**
 - **Revamp Fawna Care**
 ---
 
 ## 🛒 Retail & E-commerce
 - **Grocery Store Management System**
 - **Revamp Fawna Shop**
-- **DAV Kiosk Commerce for Retail Minimart**
+- **DAV Digital Kiosk for Retail Minimart**
+- **DAV Digital Kiosk X Mili PPoB for Grocery Store**
+- **DAV Digital Kiosk for Village Owned Enterprises**
+- **DAV Digital Kiosk for Awadah**
 - **Bus Rent Management System – Safari Bus Tour & Travel**
 - **Tent Rental Service System – Doa Ibu Rent (South Jakarta)**
 
@@ -51,3 +55,4 @@ Here are additional projects I have worked on:
 ---
 ## 🌐 Personal & Portfolio Websites
 - **Derus blog wordpress**
+- **Dav company profile**
