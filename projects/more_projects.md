@@ -36,7 +36,7 @@
 ---
 
 ## 🏥 Healthcare Systems
-- **Clinic Management System – Dr. J. Hudyono Clinic**
+- [Clinic Management System Dr J.hudyono Clinic](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md) 
 - **DAV Digital Kiosk for pharmacy**
 - **Revamp Fawna Care**
 ---
