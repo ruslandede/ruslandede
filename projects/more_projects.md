@@ -18,7 +18,7 @@
 - **LacaKas Budgeting App**
 - **New SMS Gateway Internet Banking**
 - **Customer Care Menu Internet Banking**
-- **Verification Screen for OTP Internet Banking**
+- **Verification Screen OTP Internet Banking**
 - **Fraud Detection System (FDS)**
 - **Managed Care for Health Insurance**
 - **Journal Claim & Return for Health Insurance**
