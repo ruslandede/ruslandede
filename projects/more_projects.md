@@ -7,7 +7,7 @@ Here are additional projects and case studies I have worked on:
 ## 🏨 Hospitality & Lifestyle
 - **Fawna Hotel** *(Coming Soon)*
 - **Fawna Playdate** *(Coming Soon)*
-- **Fawna Experience*
+- **Fawna Experience**
 
 ---
 
