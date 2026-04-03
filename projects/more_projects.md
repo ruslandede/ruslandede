@@ -47,7 +47,7 @@
 - [DAV Kiosk Commerce for Retail Minimart](https://github.com/ruslandede/fawnaexperience/tree/main) 
 - **DAV Digital Kiosk for Village Owned Enterprises**
 - **DAV Digital Kiosk for Awadah**
-- [Bus Rent Management System Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
+- **Bus Rent Management System** [preview](https://github.com/ruslandede/BusRentalSafari)
 - **Tent Rental Service System – Doa Ibu Rent (South Jakarta)**
 
 ---
