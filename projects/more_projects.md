@@ -44,16 +44,16 @@
 ## 🛒 Retail & E-commerce
 - [Grocery Store Management System](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 - **Revamp Fawna Shop**
-- [DAV Kiosk Commerce for Retail Minimart](https://github.com/ruslandede/fawnaexperience/tree/main) 
+- **DAV Kiosk Commerce for Retail Minimart** [Preview](https://github.com/ruslandede/fawnaexperience/tree/main) 
 - **DAV Digital Kiosk for Village Owned Enterprises**
 - **DAV Digital Kiosk for Awadah**
 - **Bus Rent Management System** [preview](https://github.com/ruslandede/BusRentalSafari)
-- **Tent Rental Service System – Doa Ibu Rent (South Jakarta)**
+- **Tent Rental Service System**
 
 ---
 
 ## 📚 Education
-- **Library Management System – SDN 09 Larangan (Tangerang City)**
+- **Library Management System elementary school**
 
 ---
 ## 🌐 Personal & Portfolio Websites
