@@ -20,8 +20,8 @@
 - **Customer Care Menu Internet Banking**
 - **Verification Screen OTP Internet Banking**
 - **Fraud Detection System (FDS)**
-- **Managed care for Health Insurance**[Preview](https://github.com/ruslandede/ManagedcareHealthInsurance)
-- **Journal premium for health insurance**[Preview](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main)
+- **Managed care for Health Insurance** [Preview](https://github.com/ruslandede/ManagedcareHealthInsurance)
+- **Journal premium for health insurance** [Preview](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main)
 - **Journal Claim & Retur for Health Insurance** [Preview](https://github.com/ruslandede/ClaimReturJournalHealthcare/tree/main) 
 
 ---
