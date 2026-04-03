@@ -48,7 +48,7 @@
 - **DAV Digital Kiosk for Village Owned Enterprises**
 - **DAV Digital Kiosk for Awadah**
 - **Bus Rent Management System** [preview](https://github.com/ruslandede/BusRentalSafari)
-- **Tent Rental Service System**
+- **Tent Rent Management System**
 
 ---
 
