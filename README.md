@@ -20,7 +20,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
 - [DAV Kiosk Commerce for Retail Minimart](https://github.com/ruslandede/fawnaexperience/tree/main)
 
-#### See All Projects Here [More Projects](projects./more_projects.md)
+#### See All Projects Here [More Projects](https://github.com/ruslandede/ruslandede/blob/main/projects/more_projects.md)
 
 ---
 
