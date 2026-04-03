@@ -16,6 +16,7 @@
 
 ## 💰 Finance & Insurance
 - **LacaKas Budgeting App**
+- **Customer Care Menu for Syaria Banking**
 - **Managed Care for Health Insurance**
 - **Journal Claim & Return for Health Insurance**
 - **Journal Premium for Health Insurance**
