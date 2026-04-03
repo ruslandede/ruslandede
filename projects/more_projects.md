@@ -5,32 +5,32 @@
 ---
 
 ## 🏨 Hospitality & Lifestyle
-- **Fawna Hotel** *(Coming Soon)*
-- **Fawna Playdate** *(Coming Soon)*
+- **Fawna Hotel** *(Coming Soon)* [Fawna Hotel (soon)](https://github.com/ruslandede/fawnahotel/tree/main) 
+- [Fawna Playdate (soon)](https://github.com/ruslandede/fawnaplaydate/tree/main) 
 - **Fawna Festival** *(Coming Soon)*
-- **Fawna Experience**
+- [Fawna Experience](https://github.com/ruslandede/fawnaexperience/tree/main)
 - **Revamp Fawna Adoption**
 - **Revamp Fawna Foundation**
 
 ---
 
 ## 💰 Finance & Insurance
-- **LacaKas Budgeting App**
+- [LacaKas Budgeting App](https://github.com/ruslandede/LacaKasBudgetingApp)
 - **New SMS Gateway Internet Banking**
 - **Customer Care Menu Internet Banking**
 - **Verification Screen OTP Internet Banking**
 - **Fraud Detection System (FDS)**
-- **Managed Care for Health Insurance**
-- **Journal Claim & Return for Health Insurance**
+- [Managed care for Health Insurance](https://github.com/ruslandede/ManagedcareHealthInsurance)
+- [Journal premium for health insurance](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main)
 - **Journal Premium for Health Insurance**
 
 ---
 
 ## 🏢 Enterprise & Management Systems
-- **Wasteship Management System (ERP & SOP)**
-- **Karya Corp Building Management System**
-- **DAV CS Management System**
-- **Building Budgeting System (Rusun Jakarta)**
+- [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/SHPWasteship-Management-System)
+- [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
+- [DAV CS Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
+- [Budgeting System for Jakarta's Flat (Rusun Jakarta)](https://github.com/ruslandede/BuildingBudgetingRusunJakarta) 
 - **Working Update Web Application IT IDD Bank Mandiri**
 
 ---
@@ -42,13 +42,12 @@
 ---
 
 ## 🛒 Retail & E-commerce
-- **Grocery Store Management System**
+- [Grocery Store Management System](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 - **Revamp Fawna Shop**
-- **DAV Digital Kiosk for Retail Minimart**
-- **DAV Digital Kiosk X Mili PPoB for Grocery Store**
+- [DAV Kiosk Commerce for Retail Minimart](https://github.com/ruslandede/fawnaexperience/tree/main) 
 - **DAV Digital Kiosk for Village Owned Enterprises**
 - **DAV Digital Kiosk for Awadah**
-- **Bus Rent Management System – Safari Bus Tour & Travel**
+- [Bus Rent Management System Safari Bus Tour & Travel](https://github.com/ruslandede/BusRentalSafari)
 - **Tent Rental Service System – Doa Ibu Rent (South Jakarta)**
 
 ---
