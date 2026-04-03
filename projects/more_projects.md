@@ -19,8 +19,7 @@
 - **New SMS Gateway Internet Banking**
 - **Customer Care Menu Internet Banking**
 - **Verification Screen for OTP Internet Banking**
-- **Force Change Default Password Internet Banking**
-- **Merchant Superapp Phase 1**
+- **Fraud Detection System (FDS)**
 - **Managed Care for Health Insurance**
 - **Journal Claim & Return for Health Insurance**
 - **Journal Premium for Health Insurance**
