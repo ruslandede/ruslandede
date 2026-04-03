@@ -15,45 +15,47 @@
 ---
 
 ## 💰 Finance & Insurance
-- [LacaKas Budgeting App](https://github.com/ruslandede/LacaKasBudgetingApp)
+- **LacaKas Budgeting App** [Preview](https://github.com/ruslandede/LacaKasBudgetingApp)
 - **New SMS Gateway Internet Banking**
 - **Customer Care Menu Internet Banking**
 - **Verification Screen OTP Internet Banking**
 - **Fraud Detection System (FDS)**
-- [Managed care for Health Insurance](https://github.com/ruslandede/ManagedcareHealthInsurance)
-- [Journal premium for health insurance](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main)
-- **Journal Premium for Health Insurance**
+- **Managed care for Health Insurance**[Preview](https://github.com/ruslandede/ManagedcareHealthInsurance)
+- **Journal premium for health insurance**[Preview](https://github.com/ruslandede/PremiumJournalHealthCare/tree/main)
+- **Journal Claim & Retur for Health Insurance** [Preview](https://github.com/ruslandede/ClaimReturJournalHealthcare/tree/main) 
 
 ---
 
 ## 🏢 Enterprise & Management Systems
-- [Wasteship Management System with ERP & SOP](https://github.com/ruslandede/SHPWasteship-Management-System)
-- [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
-- [DAV CS Management System](https://github.com/ruslandede/fawnaexperience/tree/main)
-- [Budgeting System for Jakarta's Flat (Rusun Jakarta)](https://github.com/ruslandede/BuildingBudgetingRusunJakarta) 
+- **Wasteship Management System with ERP & SOP** [Preview](https://github.com/ruslandede/SHPWasteship-Management-System)
+- **Karya Corp Building Management System** [Preview](https://github.com/ruslandede/karyacorpBMS)
+- **CS Management System** [Preview](https://github.com/ruslandede/fawnaexperience/tree/main)
+- **Budgeting System for Jakarta's Flat (Rusun Jakarta)** [Preview](https://github.com/ruslandede/BuildingBudgetingRusunJakarta) 
 - **Working Update Web Application IT IDD Bank Mandiri**
 
 ---
 
 ## 🏥 Healthcare Systems
-- [Clinic Management System Dr J.hudyono Clinic](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md) 
+- **DAV Digital Kiosk for pharmacy** [Preview](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md) 
 - **DAV Digital Kiosk for pharmacy**
 - **Revamp Fawna Care**
 ---
 
 ## 🛒 Retail & E-commerce
-- [Grocery Store Management System](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
+- **Grocery Store Management System** [Preview](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 - **Revamp Fawna Shop**
 - **DAV Kiosk Commerce for Retail Minimart** [Preview](https://github.com/ruslandede/fawnaexperience/tree/main) 
 - **DAV Digital Kiosk for Village Owned Enterprises**
 - **DAV Digital Kiosk for Awadah**
-- **Bus Rent Management System** [preview](https://github.com/ruslandede/BusRentalSafari)
-- **Tent Rent Management System**
+- **Bus Rent Management System Safari** [preview](https://github.com/ruslandede/BusRentalSafari)
+- **Tent Rent Management System Doa Ibu** [Preview](https://github.com/ruslandede/TentRentalDoaIbuUlujami) 
+
 
 ---
 
 ## 📚 Education
-- **Library Management System elementary school**
+- **Library Management System 09 Larangan Tangerang elementary school** [preview](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
+
 
 ---
 ## 🌐 Personal & Portfolio Websites
