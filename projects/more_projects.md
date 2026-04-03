@@ -27,6 +27,7 @@ Here are additional projects I have worked on:
 - **Karya Corp Building Management System**
 - **DAV CS Management System**
 - **Building Budgeting System (Rusun Jakarta)**
+- **Working Update Web Application IT IDD Bank Mandiri**
 
 ---
 
