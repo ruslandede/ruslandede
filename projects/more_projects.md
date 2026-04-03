@@ -5,7 +5,7 @@
 ---
 
 ## 🏨 Hospitality & Lifestyle
-- **Fawna Hotel** *(Coming Soon)* [Fawna Hotel (soon)](https://github.com/ruslandede/fawnahotel/tree/main) 
+- [Fawna Hotel (Coming Soon)](https://github.com/ruslandede/fawnahotel/tree/main) 
 - [Fawna Playdate (soon)](https://github.com/ruslandede/fawnaplaydate/tree/main) 
 - **Fawna Festival** *(Coming Soon)*
 - [Fawna Experience](https://github.com/ruslandede/fawnaexperience/tree/main)
