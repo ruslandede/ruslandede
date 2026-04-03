@@ -15,7 +15,6 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 - [Fawna Hotel (soon)](https://github.com/ruslandede/fawnahotel/tree/main)
 - [Fawna Experience](https://github.com/ruslandede/fawnaexperience/tree/main)
-- [LacaKas Budgeting App](https://github.com/ruslandede/LacaKasBudgetingApp)
 - [Managed care for Health Insurance](https://github.com/ruslandede/ManagedcareHealthInsurance)
 - [Karya Corp Building Management System](https://github.com/ruslandede/karyacorpBMS)
 - [DAV Kiosk Commerce for Retail Minimart](https://github.com/ruslandede/fawnaexperience/tree/main)
