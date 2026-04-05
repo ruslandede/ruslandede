@@ -54,7 +54,7 @@
 ---
 
 ## 📚 Education
-- **Library Management System 09 Larangan Tangerang elementary school** [preview](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
+- **Library Management System 09 Larangan Tangerang elementary school** [Preview](https://github.com/ruslandede/LibrarySDN09Larangan/tree/main)
 
 
 ---
