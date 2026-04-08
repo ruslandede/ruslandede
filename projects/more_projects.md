@@ -45,7 +45,6 @@
 - **Grocery Store Management System** [Preview](https://github.com/ruslandede/ClinicManagementSystemDr-J.hudyono/blob/main/README.md)
 - **Revamp Fawna Shop**
 - **DAV Kiosk Commerce for Retail Minimart** [Preview](https://github.com/ruslandede/fawnaexperience/tree/main) 
-- **DAV Digital Kiosk for Village Owned Enterprises**
 - **DAV Digital Kiosk for Awadah**
 - **Bus Rent Management System Safari** [preview](https://github.com/ruslandede/BusRentalSafari)
 - **Tent Rent Management System Doa Ibu** [Preview](https://github.com/ruslandede/TentRentalDoaIbuUlujami) 
@@ -59,5 +58,4 @@
 
 ---
 ## 🌐 Personal & Portfolio Websites
-- **Derus blog wordpress**
 - **Dav company profile**
