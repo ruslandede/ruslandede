@@ -1,18 +1,38 @@
-# All Business Analyst Case Studies
+## 📂 Business Analyst Case Studies
 
-This is a collection of Business Analyst case studies based on real-world scenarios, recruitment assignments, and bootcamp projects.  
-All company-specific details have been anonymized.
+### 🏢 Enterprise / Logistics / Operations
+- [Third-Party Logistics System – Preview](#)
+- [Jakarta Micro Business Licensing and Compliance – Preview](#)
+- [Assistant Warehouse System (Inbound & Outbound) – Preview](#)
+- [ERP for Warehouse Cash Advance System – Preview](#)
 
-## 1. Third-Party Logistics System
-- **Company:** ShoesForLife E-Commerce
-- **Scope:** Optimize delivery processes, tracking systems, and warehouse management
-- **Document:** [View Details](./case-1.md)
+### 🛒 E-Commerce
+- [ShoesForLife E-Commerce – Preview](#)
+- [PT Toko Butik E-Commerce – Preview](#)
 
-## 2. ShoesForLife E-Commerce
-- **Company:** PT Toko Butik E-Commerce
-- **Scope:** Enhance e-commerce platform, inventory management
-- **Document:** [View Details](./case-2.md)
+### 📚 Education / Library / Learning
+- [Library Management System – Preview](#)
+- [Learning Management System – Preview](#)
 
-## 3. PT Toko Butik E-Commerce
-- **Scope:** Improve order fulfillment and returns processes
-- **Document:** [View Details](./case-3.md)
+### 🏥 Healthcare / Clinic
+- [Clinic Management System – Preview](#)
+
+### 💰 Finance / HR / Payroll
+- [Query Test for Employee's Salary – Preview](#)
+
+### ☕ Retail / F&B Business Intelligence
+- [Coffee Shop Business Intelligence – Preview](#)
+- [AB Fitness Business Intelligence – Preview](#)
+- [Foodpanda Order & Delivery Trends – Preview](#)
+
+### 🎨 UI/UX / Design
+- [Bersihkos UI/UX Design – Preview](#)
+- [NGO Microsite UI/UX Design – Preview](#)
+
+### 📺 Analytics / Social Media
+- [Most Popular 1000 YouTube Videos – Preview](#)
+
+---
+
+### 🔎 Explore More
+[View All Business Analyst Case Studies](./all-case-studies.md)
