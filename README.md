@@ -78,7 +78,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - ShoesForLife E-Commerce
 - PT Toko Butik E-Commerce
 
-#### See All QA Case Studies Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/BA.md))
+#### See All QA Case Studies Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/BA.md)
 
 ---
 
@@ -87,7 +87,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - Quality Assurance – Habis Kerja
 - Korea-Asean Digital Academy – Elice
 
-#### See All Training & Certification Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/QA.md))
+#### See All Training & Certification Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/QA.md)
 
 ---
 
