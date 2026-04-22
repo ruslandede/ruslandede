@@ -58,15 +58,15 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ---
 
-## Business Analyst Case Studies
-> This case study is reconstructed based on a business case assignment from a recruitment process, Training and Bootcamp.  
+## Business Analyst Dummy Projects and Case Studies
+> This Dummy Projects and Case Studies is reconstructed based on a business case assignment from a recruitment process, Training and Bootcamp.  
 > All company-specific details have been anonymized and generalized.
 
 - Third-Party Logistics System
 - ShoesForLife E-Commerce
 - PT Toko Butik E-Commerce
 
-#### See All BA Case Studies Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/BA.md)
+#### See All BA Dummy Projects and Case Studies Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/BA.md)
 
 ---
 
