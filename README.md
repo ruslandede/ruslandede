@@ -70,15 +70,15 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ---
 
-## Quality Assurance Case Studies
-> This case study is reconstructed based on a business case assignment from a recruitment process, Training and Bootcamp.  
+## Quality Assurance Dummy Projects and Case Studies
+> This Dummy Projects and Case Studies is reconstructed based on a business case assignment from a recruitment process, Training and Bootcamp.  
 > All company-specific details have been anonymized and generalized.
 
 - Third-Party Logistics System
 - ShoesForLife E-Commerce
 - PT Toko Butik E-Commerce
 
-#### See All QA Case Studies Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/BA.md)
+#### See All QA Dummy Projects and Case Studies Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/BA.md)
 
 ---
 
