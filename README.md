@@ -13,7 +13,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 > Here are featured projects I have worked on:  
 > This list is shared in accordance with NDA.
 
-- **Fawna Hotel** *(Coming Soon)* [Preview](https://github.com/ruslandede/fawnahotel/tree/main)
+- **Fawna Play Date** *(Coming Soon)* [Preview](https://github.com/ruslandede/fawnaplaydate/tree/main)
 - **Fawna Experience** [Preview](https://github.com/ruslandede/fawnaexperience/tree/main)
 - **Managed care for Health Insurance** [Preview](https://github.com/ruslandede/ManagedcareHealthInsurance)
 - **Karya Corp Building Management System** [Preview](https://github.com/ruslandede/karyacorpBMS)
