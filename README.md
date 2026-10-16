@@ -10,9 +10,12 @@ As an IT Business Analyst & System Analyst, I bridge the gap between business an
 - **Business Analysis:** Understanding business needs, identifying problems, and gathering requirements.
 - **System Analysis:** Translating business requirements into functional specifications and system workflows.
 - **Documentation:** Creating BRDs, FSDs, process flows, and system documentation.
-- **Testing & Validation:** Developing test scenarios, coordinating UAT, and validating system functionality.
+- **Quality Assurance (QA):** Developing test scenarios and test cases, performing manual testing, identifying defects, and ensuring system quality.
+- **UI/UX Design:** Creating user flows, wireframes, UI mockups, and prototypes to visualize system solutions and improve user experience.
+- **Data Analytics:** Analyzing data, identifying trends and patterns, and developing reports and dashboards to support data-driven decision-making.
+- **Testing & Validation:** Coordinating UAT and validating system functionality to ensure solutions meet business requirements.
 - **Project Coordination:** Managing timelines, aligning stakeholders, and supporting successful system delivery.
-
+  
 ## Featured Projects
 > Here are featured projects I have worked on:  
 > This list is shared in accordance with NDA.
