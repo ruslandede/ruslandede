@@ -12,7 +12,6 @@ As an IT Business Analyst & System Analyst, I bridge the gap between business an
 - **Documentation:** Creating BRDs, FSDs, process flows, and system documentation.
 - **Testing & Validation:** Developing test scenarios, coordinating UAT, and validating system functionality.
 - **Project Coordination:** Managing timelines, aligning stakeholders, and supporting successful system delivery.
----
 
 ## Featured Projects
 > Here are featured projects I have worked on:  
