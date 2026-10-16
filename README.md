@@ -1,7 +1,7 @@
-# Dede Ruslan - IT Business Analyst | QA Enthusiast
+# Dede Ruslan - IT Business & System Analyst 
 ---
 
-<p> IT Business Analyst with strong Quality Assurance experience, including test case development, UAT execution, and defect validation. Experienced in requirements analysis, BPMN, and BRD/FSD documentation, with additional involvement in project management to ensure high-quality and successful system delivery. </p>
+<p> IT Business Analyst and System Analyst with experience in requirements gathering, business process modeling (BPMN), and system documentation, including BRD and FSD. Experienced in translating business needs into functional system requirements, coordinating project delivery, and collaborating with cross-functional teams to ensure effective and reliable technology solutions. </p>
 
 ## What I Do
 As an IT Business Analyst, I bridge the gap between business and technology by:
