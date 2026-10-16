@@ -4,11 +4,16 @@
 <p> IT Business Analyst and System Analyst with experience in requirements gathering, business process modeling (BPMN), and system documentation, including BRD and FSD. Experienced in translating business needs into functional system requirements, coordinating project delivery, and collaborating with cross-functional teams to ensure effective and reliable technology solutions. </p>
 
 ## What I Do
-As an IT Business Analyst, I bridge the gap between business and technology by:
-- Understanding real business problems
-- Translating them into system requirements
-- Ensuring solutions actually work (UAT & QA)
+
+As an IT Business Analyst & System Analyst, I bridge the gap between business and technology by:
+
+- **Business Analysis:** Understanding business needs, identifying problems, and gathering requirements.
+- **System Analysis:** Translating business requirements into functional specifications and system workflows.
+- **Documentation:** Creating BRDs, FSDs, process flows, and system documentation.
+- **Testing & Validation:** Developing test scenarios, coordinating UAT, and validating system functionality.
+- **Project Coordination:** Managing timelines, aligning stakeholders, and supporting successful system delivery.
 ---
+
 ## Featured Projects
 > Here are featured projects I have worked on:  
 > This list is shared in accordance with NDA.
@@ -26,7 +31,7 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 
 ## Tools & Technologies
 
-## IT Business Analyst & Project Management
+## IT Business System Analyst & Project Management
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
@@ -39,15 +44,6 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-## Quality Assurance
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 ## Technical Skills
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -68,18 +64,6 @@ As an IT Business Analyst, I bridge the gap between business and technology by:
 - PT Toko Butik E-Commerce
 
 #### See All BA Dummy Projects and Case Studies Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/BA.md)
-
----
-
-## Quality Assurance Dummy Projects and Case Studies
-> This Dummy Projects and Case Studies is reconstructed based on a business case assignment from a recruitment process, Training and Bootcamp.  
-> All company-specific details have been anonymized and generalized.
-
-- Third-Party Logistics System
-- ShoesForLife E-Commerce
-- PT Toko Butik E-Commerce
-
-#### See All QA Dummy Projects and Case Studies Here [More Case Studies](https://github.com/ruslandede/ruslandede/blob/main/case_studies/BA.md)
 
 ---
 
