@@ -5,7 +5,7 @@
 
 ## What I Do
 
-As an IT Business Analyst & System Analyst, I bridge the gap between business and technology by:
+As an IT Business & System Analyst, I bridge the gap between business and technology by:
 
 - **Business Analysis:** Understanding business needs, identifying problems, and gathering requirements.
 - **System Analysis:** Translating business requirements into functional specifications and system workflows.
