@@ -28,6 +28,16 @@ IT Business Analyst and System Analyst with 5 years of experience in Banking, In
 - [Achievement 2, e.g. Coordinated UAT with X stakeholders across X sprints]
 - [Achievement 3]
 
+**IT Business Analyst** | [Synova (PT Transnovasi Bangun Persada] | [10 2026 - Present]
+- [Achievement 1, e.g. Wrote BRD/FSD for X modules, reducing rework/clarification requests by X%]
+- [Achievement 2, e.g. Coordinated UAT with X stakeholders across X sprints]
+- [Achievement 3]
+
+**IT Business Analyst** | [Synova (PT Transnovasi Bangun Persada] | [10 2026 - Present]
+- [Achievement 1, e.g. Wrote BRD/FSD for X modules, reducing rework/clarification requests by X%]
+- [Achievement 2, e.g. Coordinated UAT with X stakeholders across X sprints]
+- [Achievement 3]
+
 👉 [Full work history on LinkedIn](https://www.linkedin.com/in/ruslandede/)
 
 ---
