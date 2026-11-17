@@ -31,6 +31,8 @@ IT Business Analyst and System Analyst with 5 years of experience in Banking, In
 **[Previous Job Title]** | [Company] | [Mon YYYY - Mon YYYY]
 - [Achievement]
 
+[Preview](https://github.com/ruslandede/fawnaexperience/tree/main)
+
 ---
 
 ## Featured Projects
