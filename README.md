@@ -1,8 +1,8 @@
 # Dede Ruslan | IT Business Analyst & System Analyst
 
-IT Business Analyst and System Analyst with [X] years of experience in [industries, e.g. hospitality, insurance, retail, building management]. I specialize in requirements gathering, business process modeling (BPMN), and system documentation (BRD, FSD), turning business needs into clear functional requirements that development teams can build and QA can test. Supported by hands-on experience in UAT coordination, UI/UX wireframing, and data reporting.
+IT Business Analyst and System Analyst with 5 years of experience in Banking, Insurance, . I specialize in requirements gathering, business process modeling (BPMN), and system documentation (BRD, FSD), turning business needs into clear functional requirements that development teams can build and QA can test. Supported by hands-on experience in UAT coordination, UI/UX wireframing, and data reporting.
 
-📍 [City, Indonesia] · 📧 dederuslan12@gmail.com · [LinkedIn](https://www.linkedin.com/in/ruslandede/)
+📍 [Jakarta, Indonesia] · 📧 dederuslan12@gmail.com · [LinkedIn](https://www.linkedin.com/in/ruslandede/)
 
 ---
 
