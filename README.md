@@ -28,10 +28,7 @@ IT Business Analyst and System Analyst with 5 years of experience in Banking, In
 - [Achievement 2, e.g. Coordinated UAT with X stakeholders across X sprints]
 - [Achievement 3]
 
-**[Previous Job Title]** | [Company] | [Mon YYYY - Mon YYYY]
-- [Achievement]
-
-[Preview](https://github.com/ruslandede/fawnaexperience/tree/main)
+👉 [Full work history on LinkedIn](https://www.linkedin.com/in/ruslandede/)
 
 ---
 
