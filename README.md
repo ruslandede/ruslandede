@@ -2,7 +2,7 @@
 
 IT Business Analyst and System Analyst with 5 years of experience in Banking, Insurance, . I specialize in requirements gathering, business process modeling (BPMN), and system documentation (BRD, FSD), turning business needs into clear functional requirements that development teams can build and QA can test. Supported by hands-on experience in UAT coordination, UI/UX wireframing, and data reporting.
 
-📍 [Jakarta, Indonesia] · 📧 dederuslan12@gmail.com · [LinkedIn](https://www.linkedin.com/in/ruslandede/)
+📍 Jakarta, Indonesia · 📧 dederuslan12@gmail.com · [LinkedIn](https://www.linkedin.com/in/ruslandede/)
 
 ---
 
@@ -23,7 +23,7 @@ IT Business Analyst and System Analyst with 5 years of experience in Banking, In
 
 ## Experience
 
-**[Job Title]** | [Company or anonymized description, e.g. "Travel & pet services startup"] | [Mon YYYY - Present]
+**System Analyst** | [Synova (PT Transnovasi Bangun Persada] | [10 2026 - Present]
 - [Achievement 1, e.g. Wrote BRD/FSD for X modules, reducing rework/clarification requests by X%]
 - [Achievement 2, e.g. Coordinated UAT with X stakeholders across X sprints]
 - [Achievement 3]
